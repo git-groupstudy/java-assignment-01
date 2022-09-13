@@ -1,4 +1,4 @@
-package kyubin.ass.chap01;
+package kyubin.assign.chap01;
 
 public class task01 {
 

@@ -1,4 +1,4 @@
-package soobin.assignment.chap01;
+package soobin.assign.chap01;
 
 public class task01 {
 

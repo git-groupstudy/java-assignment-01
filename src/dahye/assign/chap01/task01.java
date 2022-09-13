@@ -1,4 +1,4 @@
-package dahye.ass.chap01;
+package dahye.assign.chap01;
 
 public class task01 {
 
