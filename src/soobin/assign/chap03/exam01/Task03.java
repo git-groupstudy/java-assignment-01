@@ -1,6 +1,6 @@
 package soobin.assign.chap03.exam01;
 
-public class Task01 {
+public class Task03 {
 
 	public static void main(String[] args) {
 
