@@ -73,6 +73,7 @@ public class Task02 {
 
 		
 		
+		
 		// 6. 증감연산자를 활용하여 아래 numMinus값이 9~0이 출력되게 해보자.
 
 		int numMinus = 10;
