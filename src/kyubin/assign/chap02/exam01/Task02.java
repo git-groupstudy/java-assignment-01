@@ -85,7 +85,6 @@ public class Task02 {
 		System.out.println(""); // <= 줄바꿈이니까 무시
 
 		
-		
 		// 7. 다음 선언된 변수의 값을 초기화하여 아래 문자열이 콘솔에 출력해도록 해보자.
 
 		String printStr = "화면에 출력!!";
