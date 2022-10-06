@@ -12,7 +12,7 @@ public class Task04 {
 		// ex ) int n = 12345; -> 출력 : [5,4,3,2,1]
 
 		int n1 = 12345;
-		String n2 = Interger.toString(n1); // 여기서 interger.tostring이란 명령어에 뭔갈 해야한다는건 기억이 나는데 뭘 해야하는지 까먹었어요...
+		String n2 = Integer.toString(n1); 
 		String[] res = n2.split("");
 		String[] reverseArr = new String[res.length];
 		for (int i = 0; i < res.length; i++) {
@@ -26,11 +26,11 @@ public class Task04 {
 		// ex) int n = 123 => 1 + 2 + 3 =>출력 6
 
 		int num2 = 123;
-		String n3 = Interger.toString(num2);
+		String n3 = Integer.toString(num2);
 		String[] n4 = n3.split("");
-		int sum;
+		int sum = 0;
 		for (int i = 0; i < n4.length; i++) {
-			int z = Interger.parseInt(n4);
+			int z = Integer.parseInt(n4[i]);
 			sum += z;
 		}
 
@@ -84,15 +84,15 @@ public class Task04 {
 
 		int[] numbers = { 2, 1, 3, 4, 1 };
 
-		ArrayList<Integer> list = new ArrayList<Integer>();
-		for (int i = 0; i < numbers.length; i++) {
-			for (int j = 0; j < numbers.length; j++) {
-				if (i == j) {
-					continue;
-					int a = numbers[i] + numbers[j];
-				}
-			}
-		}
+//		ArrayList<Integer> list = new ArrayList<Integer>();
+//		for (int i = 0; i < numbers.length; i++) {
+//			for (int j = 0; j < numbers.length; j++) {
+//				if (i == j) {
+//					continue;
+//					int a = numbers[i] + numbers[j];
+//				}
+//			}
+//		}
 
 		// 작성
 
