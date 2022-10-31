@@ -1,8 +1,4 @@
-package kyubin.assign.chap05.exam;
-
-import soobin.answer.chap05.exam01.Cat;
-import soobin.answer.chap05.exam01.Dog;
-import soobin.answer.chap05.exam01.Eagle;
+package kyubin.assign.chap05.exam01;
 
 public class exam01 {
 
