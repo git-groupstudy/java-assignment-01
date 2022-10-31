@@ -1,4 +1,4 @@
-package soobin.answer.chap05.exam02;
+ package soobin.answer.chap05.exam02;
 
 public class App {
 
