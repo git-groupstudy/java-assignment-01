@@ -94,7 +94,7 @@ public class Task04 {
 //			}
 //		}
 
-		// 작성
+		// 작성하기
 
 //		System.out.println(Arrays.toString(answer));
 	}
