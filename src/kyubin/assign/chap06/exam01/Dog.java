@@ -11,4 +11,5 @@ public class Dog {
 	public Dog(int getAge) {
 		this.age = getAge;
 	}
+	
 }

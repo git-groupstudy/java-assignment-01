@@ -15,5 +15,4 @@ public class App {
 		Dog dog = new Dog("멍멍이", 3);
 		System.out.println(dog.getName() + "는 " + dog.getAge() + "살 입니다.");
 	}
-
 }
