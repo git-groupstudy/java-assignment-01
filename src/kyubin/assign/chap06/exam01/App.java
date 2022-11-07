@@ -1,6 +1,5 @@
 package kyubin.assign.chap06.exam01;
 
-import soobin.answer.chap06.exam01.Dog;
 
 public class App {
 
@@ -8,11 +7,14 @@ public class App {
 		//1. Person 클래스에 생성자를 추가하여 아래의 코드가 제대로 동작하게 해봅시다.
 		
 		Person person = new Person(25);
+		
 		System.out.println("나이 : " + person.age);
 
 		
 		//2. Dog 클래스에 생성자를 추가하여 아래의 코드가 동작하게 해봅시다.
 		Dog dog = new Dog("멍멍이", 3);
+		Dog dog2 = new Dog("강아지");
+		
 		System.out.println(dog.getName() + "는 " + dog.getAge() + "살 입니다.");
 	}
 }
